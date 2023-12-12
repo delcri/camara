@@ -1,0 +1,5 @@
+[console_scripts]
+img3 = opencv_tools.image3:main
+img_publisher = opencv_tools.image_publisher:main
+img_subscriber = opencv_tools.image_subscriber:main
+img_sus = opencv_tools.image_sus:main
